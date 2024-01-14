@@ -1,4 +1,4 @@
-# C-learning
+# C++ - learning lab
 Personal repo for my C++ Learning journey
 
 #######
