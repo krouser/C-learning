@@ -10,5 +10,8 @@ Topics i have an idea of so far, i will constantly update this as i go through m
 2. Vectors
 3. Operators
 4. Conditions
+5. strings
+6. functions
+7. pointers
 
 ######
