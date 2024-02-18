@@ -3,8 +3,14 @@ Personal repo for my C++ Learning journey
 
 #######
 
-My current study book is this great book titled "Learning C++ by by Michael Haephrati and Ruth Haephrati" avaialable on Manning.com
-Topics i have an idea of so far, i will constantly update this as i go through more chapters of the book:
+My current study books are this great books titled 
+1. Learning C++ by by Michael Haephrati and Ruth Haephrati
+2. Learn C++ by Example
+3. Object-Oriented Software Design in C++
+
+all of these books are avaialable on Manning.com
+
+Topics i have an idea of so far, i will constantly update this as i go through more chapters of the books:
 
 1. Arrays
 2. Vectors
