@@ -13,5 +13,10 @@ Topics i have an idea of so far, i will constantly update this as i go through m
 5. strings
 6. functions
 7. pointers
+8. vectotors
+9. string literals
+10. functions
+11. pointers and address of
+12. Object Oriented Programming and C++
 
 ######
