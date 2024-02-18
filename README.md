@@ -3,7 +3,7 @@ Personal repo for my C++ Learning journey
 
 #######
 
-My current study books are this great books titled 
+My current study books are these great books titled 
 1. Learning C++ by by Michael Haephrati and Ruth Haephrati
 2. Learn C++ by Example
 3. Object-Oriented Software Design in C++
