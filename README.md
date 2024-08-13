@@ -16,13 +16,15 @@ Topics i have an idea of so far, i will constantly update this as i go through m
 2. Vectors
 3. Operators
 4. Conditions
-5. strings
-6. functions
-7. pointers
-8. vectotors
-9. string literals
-10. functions
-11. pointers and address of
+5. Strings
+6. Functions
+7. Pointers
+8. Vectotors
+9. String literals
+10. Functions
+11. Pointers and address of
 12. Object Oriented Programming and C++
+13. Templates and concepts
+14. Partial Templates Specialization
 
 ######
