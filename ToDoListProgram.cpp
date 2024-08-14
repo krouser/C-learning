@@ -79,9 +79,10 @@ int main()
         std::cout << "Please select an option:" << std::endl;
         std::cout << "1. Add an item" << std::endl;
         std::cout << "2. Show me what I need to do" << std::endl;
-        std::cout << "3. Mark an item as completed" << std::endl;
-        std::cout << "4. Save data to a file" << std::endl;
-        std::cout << "5. Exit" << std::endl << std::endl;
+        std::cout << "3. Do you want to create a stick it note for this task?" << std::endl;
+        std::cout << "4. Mark an item as completed" << std::endl;
+        std::cout << "5. Save data to a file" << std::endl;
+        std::cout << "6. Exit" << std::endl << std::endl;
  
         
         /// we prompt the user to enter their choice of option and read in the value
